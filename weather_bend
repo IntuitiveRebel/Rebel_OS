@@ -1,4 +1,0 @@
-<a class="weatherwidget-io" href="https://forecast7.com/en/44d06n121d32/bend/?unit=us" data-label_1="BEND" data-label_2="WEATHER" data-theme="kiwi" data-basecolor="#F52887" data-shadow="#ded4f5" data-accent="rgba(245, 40, 135, 0.47)" data-textcolor="#27F595" data-highcolor="#27F5D9" data-lowcolor="#695176" data-mooncolor="#e1dbdb" data-cloudcolor="#79c7c7" data-cloudfill="#538787" data-raincolor="rgba(26, 126, 243, 0.65)" >BEND WEATHER</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
